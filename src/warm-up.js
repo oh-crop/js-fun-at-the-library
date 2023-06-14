@@ -19,7 +19,7 @@ var pages = 94;
 // condensed the book, use a built in math operator to make the page count a quarter
 // of what it currently is 
 
-
+pages = pages / 4;
 
 // Initialize a new variable "movie", but leave it undefined
 
