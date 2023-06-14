@@ -41,7 +41,7 @@ var isFavorite = false;
 // variable should be true, otherwise it should be false. You MUST use a
 // comparison operator.
 
-
+isShortStory = pages.length < 25;
 
 //------------------------- Conditionals -------------------------//
 
