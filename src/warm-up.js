@@ -10,8 +10,8 @@
 // Initialize two new variables, "title", and "pages", and assign values to them with
 // a book's title and page count.
 
-// var title = "Harry Potter";
-// var ...
+var title = "12 Rules for Life";
+var pages = 94; 
 
 
 
